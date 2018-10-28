@@ -6,6 +6,15 @@ Falcon based API interface for sentiment analysis over twitter data
 pip install -r requirements.txt
 
 #### To start the App
+
+Open utils.py file and go to line number 38 - 42 and input your api tokens there
+```python
+        # keys and tokens from the Twitter Dev Console
+        consumer_key='#YOUR CUSTOMER KEY HERE'
+        consumer_secret='#YOUR CUSTOMER SECRET HERE'
+        access_token='#YOUR ACCESS TOKEN HERE'
+        access_token_secret='YOUR ACCESS TOKEN SECRET HERE'
+```
 bash start.sh
 
 #### API calls :
