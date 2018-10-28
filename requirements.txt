@@ -4,3 +4,4 @@ falcon-multipart==0.2.0
 tqdm==4.19.8
 tweepy==3.6.0
 textblob==0.15.1
+gunicorn
