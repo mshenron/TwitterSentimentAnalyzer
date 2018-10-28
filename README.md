@@ -15,8 +15,10 @@ Open utils.py file and go to line number 38 - 42 and input your api tokens there
         access_token='#YOUR ACCESS TOKEN HERE'
         access_token_secret='YOUR ACCESS TOKEN SECRET HERE'
 ```
+open terminal and start the server using
+```bash
 bash start.sh
-
+```
 #### API calls :
 ###### http://127.0.0.1:8089/api/AnalyzeTweets/
 ```python
